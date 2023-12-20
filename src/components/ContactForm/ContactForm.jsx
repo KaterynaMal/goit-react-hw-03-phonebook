@@ -1,5 +1,5 @@
 import React from 'react';
-import css from './ContactsForm.module.css';
+import css from './ContactForm.module.css';
 
 const ContactForm = ({
   name,
